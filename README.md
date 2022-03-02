@@ -1,4 +1,4 @@
-# DiaMonTech
+# Data Science Assignment - DiaMonTech
 
 Take home assignment from https://www.diamontech.de/ and my solution to it.
 
